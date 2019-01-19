@@ -26,4 +26,13 @@ public class ConsumerHystrixApplication {
 
     }
 
+    public void hello(){
+        //a
+
+        //b
+
+    }
+
+
+
 }
