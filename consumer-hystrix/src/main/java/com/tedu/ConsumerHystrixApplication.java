@@ -13,4 +13,13 @@ public class ConsumerHystrixApplication {
     public static void main(String[] args) {
         SpringApplication.run(ConsumerHystrixApplication.class, args);
     }
+    public void hello(){
+        //a
+        
+        //b
+        
+    }
+    
+    
+    
 }
