@@ -11,6 +11,23 @@ import org.springframework.cloud.netflix.feign.EnableFeignClients;
 public class ConsumerHystrixApplication {
 
     public static void main(String[] args) {
+
         SpringApplication.run(ConsumerHystrixApplication.class, args);
     }
+
+    public test(){
+
+        //1
+
+
+
+        //2
+
+
+        //3
+
+
+
+    }
+
 }
